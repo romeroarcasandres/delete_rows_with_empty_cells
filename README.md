@@ -32,4 +32,4 @@ The `delete_rows_with_empty_cells` script processes all Excel (.xlsx) files with
 
 ## License
 
-This project is governed by the GNU Affero General Public License v3.0. For comprehensive details, kindly refer to the LICENSE file included with this project.
+This project is governed by the CC BY-NC 4.0 license. For comprehensive details, kindly refer to the LICENSE file included with this project.
